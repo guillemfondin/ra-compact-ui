@@ -9,7 +9,7 @@
     },
     "peerDependencies": {
         "@material-ui/core": "^4.x",
-        "react": "^16.8.x",
+        "react": "^17.0.x",
         "react-admin": "^3.x",
         "react-dom": "^16.x"
     },
